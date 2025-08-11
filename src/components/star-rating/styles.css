@@ -1,0 +1,11 @@
+.active {
+  color: #e0db31;
+}
+
+.unactive {
+  color: #000000;
+}
+
+.star-rating {
+  padding: 120px 0;
+}
